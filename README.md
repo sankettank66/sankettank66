@@ -15,6 +15,10 @@ I am a driven and curious individual with a passion for technology and its power
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sankettank66&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+## 🧠MY Dev Card
+<a href="https://app.daily.dev/sankettank66"><img src="https://api.daily.dev/devcards/5b806b33871e45b4abb4065d9b301dd6.png?r=6at" width="400" alt="Sanket Tank's Dev Card"/></a>
+
+## 🎵SPOTIFY 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=71re2y8uqqpxgfkl3q9rrgmvw&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 ### ✍️ Random Dev Quote
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
