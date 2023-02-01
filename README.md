@@ -18,9 +18,6 @@ I am a driven and curious individual with a passion for technology and its power
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sankettank66&icon=3&color=3)](https://visitcount.itsvg.in)
 
