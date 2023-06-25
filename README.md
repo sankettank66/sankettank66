@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am a driven and curious individual with a passion for technology and its power to solve problems. <br><br>With a background in Web Development, I have developed front-end Development and back-end Development and have a keen eye for detail. <br><br>When I'm not coding, I enjoy watching movies, Playing Games, and Reading books.<br><br>You can find my projects on Github where I aim to create innovative and impactful solutions."<br><br>Feel free to customize the example to your own background and interests.<br><br> Good luck!
+I'm an enthusiastic individual with a strong affinity for technology and its problem-solving potential.
 
+My expertise lies in Web Development, where I excel in both front-end and back-end development, paying meticulous attention to every detail.
+
+Outside of coding, I find pleasure in indulging in movies, engaging in gaming sessions, and exploring captivating books.
+
+For a glimpse into my projects, visit my GitHub repository, where I strive to deliver innovative and impactful solutions.
+
+Feel free to tailor this description to reflect your unique background and interests.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanket_tank_6 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sankettank66) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sankettank66 ) 
