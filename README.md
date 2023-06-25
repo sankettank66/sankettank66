@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm an enthusiastic individual with a strong affinity for technology and its problem-solving potential.
 
-My expertise lies in Web Development, where I excel in both front-end and back-end development, paying meticulous attention to every detail.
+My expertise lies in MERN Stack Development, where I excel in both front-end and back-end development, paying meticulous attention to every detail.
 
 Outside of coding, I find pleasure in indulging in movies, engaging in gaming sessions, and exploring captivating books.
 
