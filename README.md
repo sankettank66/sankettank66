@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Full-Stack & AI Agent Enthusiast & speaker<br>
-💻 Odoo India <br>Web | AI Agents | DSA | System Design
+Web | AI Agents | DSA | System Design
 
 I build systems - not placeholders.<br><br>From production-grade frontends to AI-powered tools, my work spans deep JavaScript, scalable backend architectures, LLM-based agents, and real-time apps. I focus on shipping high-quality, high-utility products that solve real problems.
 
